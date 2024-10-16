@@ -1,0 +1,237 @@
+body{
+    background-color:whitesmoke;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    .dd1{
+        display: flex;
+        align-items: center;
+        height: 30px;
+        color: black;
+        background-color: rgb(240, 240, 251);
+        margin-right: 30px;
+      }
+      .m1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+      .login{
+        color:blue;
+      text-align: center;
+        border: 1px solid white;
+        background-color: white;
+        width: 80px;
+        text-decoration: none;
+
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      
+      .icon
+      {
+        text-align: center;
+        margin-right: 10px ;
+        margin-left: 10px;
+        font-size: 15px;
+    color: rgb(118, 19, 240);
+      }
+      .home{
+        text-decoration:none;
+        color: white;
+        font-size: 15px;
+      }
+      .grocery{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      
+      .d1 {
+        background-color:blue;
+      width: 1170px;
+        height: 60px;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        position:sticky;
+        top:0px;
+      }
+      .span{
+        font-size: 10px;
+        margin-left: 5px;
+      }
+      
+       .i1 {
+        font-size: 15px;
+        border: 0.5px;
+        width: 250px;
+        height: 20px;
+        background-color: rgb(240, 240, 251);
+        /* padding: 5px; */
+        margin-left:2px;
+        
+      } 
+      .a1 {
+        color:white;
+        text-decoration: none;
+        font-size: 20px;
+      }
+       .ch{
+        color:white;
+        text-decoration: none;
+      } 
+      .m1{
+        
+    
+        margin: 10px;
+      }
+      /* .m2{
+        display: flex;
+        justify-content: center;
+        margin: 10px 20px;
+        height: 300px;
+        width: 1150px;
+      } */
+      .m2{
+
+        animation: mobile 15s linear infinite ;
+        width: 1150px;
+        margin: 10px;
+        background-size: 100% 100%;
+        height: 300px;
+      }
+      @keyframes mobile{
+        0%{
+            background-image: url(g27.jpg);
+
+        }
+    
+        
+        50%{
+            background-image: url(g28.jpg);
+        }
+        75%{
+            background-image: url(g29.jpg);
+        }
+        100%{
+            background-image: url(g30.jpg);
+        }
+      }
+      .m3{
+        margin: 10px;
+width: 1150px;
+        display: flex;
+        justify-content:space-evenly; 
+      }
+     
+hr{
+  opacity: 0.2;
+}
+
+.edge{
+  font-size: 15px;
+  /* text-align: center; */
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+/* opacity: 0.9; */
+}
+.mo49{
+  opacity: 0.7;
+  margin-left: 3px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.price1{
+  font-size: 17px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.rupeicon1{
+  font-size:13px;
+}
+.mo50{
+  margin-left:1px;
+}
+.price2{
+  color: silver;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration: line-through;
+}
+.rupeicon2{
+  font-size:13px;
+  color: silver;
+}
+.off{
+  color: green;
+  font-size: 15px;
+}
+.iphone{
+  /* margin-top: 20px; */
+  margin: 10px;
+background-color: white;
+width: 1150px;
+  height:370px;
+}
+.iphone1{
+  padding-top: 10px;  
+  padding-left: 50px;
+  font-size: 20px;
+  font-weight:400px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.iphone2{
+  display:flex;
+  justify-content: space-evenly;
+}
+.iphone21{
+  width:200px;
+  text-align: center;
+
+}
+.icon4{
+  padding-left:  5px;
+  padding-right: 5px;
+  border-radius: 3px;
+  background-color: green;
+  color: white;
+}
+.iphone2121{
+  margin-top:6px;
+}
+.iphone2122{
+  margin-top: 6px;
+}
+.iphone2123{
+  margin-top: 6px;
+}
+.footer{
+  margin-top: 20px;
+  width: 1170px;
+  background-color: black;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.w1{
+  color: rgb(145, 142, 142);
+  font-size: 20px;
+}
+.f1{
+  font-size: 20px;
+}
+.gc{
+  margin-top:40px;
+}
+.s1{
+  padding-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+.gth{
+  text-decoration: none;
+}

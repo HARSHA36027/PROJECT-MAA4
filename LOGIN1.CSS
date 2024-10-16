@@ -1,0 +1,171 @@
+body{
+    background-color: whitesmoke;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    .dd1{
+        display: flex;
+        align-items: center;
+        height: 40px;
+        color: black;
+        background-color: rgb(240, 240, 251);
+      }
+      .m1{
+        display: flex;
+        align-items: center;
+      }
+      .seller{
+        color: white;
+        font-size: 25px;
+      }
+      .icon
+      {
+        
+        width: 30px;
+        text-align: center;
+        height: 40px;
+        font-size: 25px;
+        padding-top: 15px;
+        padding-right: 10px;
+    color: blue;
+      }
+      .d1 {
+        background-color:rgb(2, 2, 124);
+      width: 1170PX;
+        height: 60px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        position:sticky;
+        top:0px;
+      }
+      
+       .i1 {
+        font-size: 20px;
+        border: 0.5px;
+        width: 350px;
+        height: 20px;
+        background-color: rgb(240, 240, 251);
+        padding: 5px;
+        margin-left:2px;
+        
+      } 
+      .a1 {
+        color:white;
+        text-decoration: none;
+        font-size: 25px;
+      }
+       .ch{
+        color:white;
+      } 
+    .d8{
+        box-shadow: -1px -1px 6px  brown;
+        width: 350px;
+        height: 500px;
+        background-color: rgb(6, 6, 248);
+    }
+    img{
+       margin-left: 20px;
+    }
+    .d10{
+      box-shadow: -1px -1px 6px 6px white;
+        width: 500px;
+        height: 500px;
+    }
+    .p1{
+        margin-top: 40px;
+        margin-left: 70px;
+        font-size: 30px; 
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .p2{
+        margin-top: 30px;
+        margin-left: 50px;
+        font-size: 20px; 
+        color: whitesmoke;
+        line-height: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .p3{
+        margin-left: 50px;
+        font-size: 20px; 
+        color: whitesmoke;
+        line-height:5px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .d11{
+        display: flex;
+        margin-left:100px;
+        margin-top:70px; 
+    }
+     .mobile{
+        margin-top: 40px;
+        margin-left: 90px;
+        color:rgb(154, 145, 145);
+        font-size: 25px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .input{
+      font-size: 20px;
+      border: 0.15px solid;
+      height: 40px;
+      border-radius: 10px;
+      background-color: rgb(240, 240, 251);
+    width: 360px;
+    margin-left: 70px;
+    } 
+    .term{
+        margin-top: 20px;
+        margin-left: 160px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    button{
+        margin:100px 70px;
+        width:360px;
+        background-color: rgb(232, 78, 17);
+        height: 40px;
+        border: none;
+        border-radius: 10px;
+        border: 0.25 solid rgb(232, 78, 17);
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .a{
+        text-decoration: none;
+        color:blanchedalmond;
+        font-size: 20px;
+    }
+    .acc{
+      text-decoration: none;
+      font-size: 20px;
+    
+    }
+    .footer{
+        width: 1170PX;
+      margin-top: 20px;
+      background-color: black;
+      height: 300px;
+      color: white;
+      display: flex;
+      justify-content: space-around;
+    }
+    .w1{
+      color: rgb(145, 142, 142);
+      font-size: 20px;
+    }
+    .f1{
+      font-size: 20px;
+    }
+    .gc{
+      margin-top:40px;
+    }
+    .s1{
+      padding-left: 10px;
+      font-size: 20px;
+      text-decoration: none;
+      color: white;
+    }
+    .gth{
+      text-decoration: none;
+    }
