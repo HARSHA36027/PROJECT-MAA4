@@ -1,0 +1,405 @@
+body{
+    background-color:whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    .grocery{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-left: 60px;
+    }
+    
+    .dd1{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    color: black;
+    background-color: rgb(240, 240, 251);
+    margin-right: 30px;
+    }
+    .m1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .login{
+    color:blue;
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+    width: 80px;
+    text-decoration: none;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .bcseller{
+        color: white;
+        font-size: 15px;
+        font-weight:bolder;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .icon
+    {
+    text-align: center;
+    margin-right: 10px ;
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgb(118, 19, 240);
+    }
+    .home{
+    text-decoration:none;
+    color: white;
+    font-size: 15px;
+    }
+    
+    
+    .d1 {
+    background-color:blue;
+    
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position:sticky;
+    top:0px;
+    }
+    .span{
+    font-size: 10px;
+    margin-left: 5px;
+    }
+    
+    .i1 {
+    font-size: 15px;
+    border: 0.5px;
+    width: 300px;
+    height: 20px;
+    background-color: rgb(240, 240, 251);
+    /* padding: 5px; */
+    margin-left:2px;
+    
+    } 
+    .a1 {
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    }
+    .ch{
+    color:white;
+    text-decoration: none;
+    } 
+    .img1{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    }
+    .t11{
+        display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    }
+    .product3{
+        margin-top: 0px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 0px;
+    }
+
+.divall
+{
+    /* border: 1px solid black; */
+    /* margin-top: 0px; */
+    margin: 5px;
+    height:640px;
+    background-color: white;
+
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    margin-right: 900px;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr{
+    opacity: 0.2;
+}
+.ad2{
+ display: flex;
+ justify-content: center;
+    /* border: 1px solid black; */
+}
+.ad3{
+    width:220px;
+    text-align: center;
+    margin: 10px;
+}
+.ad311{
+margin-top: 5px;
+font-weight:600;
+font-size: 13px;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.ad312{
+    margin-top: 7px;
+    opacity: 0.6;
+    color: green;
+    font-size: 13px;
+}
+.ad313{
+    margin-top: 7px;
+    opacity: 0.4;  
+    font-size: 13px; 
+
+}
+
+.imgset{
+     margin-top: 10px;
+}
+.imgset2{
+   
+     margin-top: 45px;
+}
+.box2{
+    margin-top: 20px;
+}
+.footer{
+  margin-top: 30px;
+  background-color: black;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.w1{
+  color: rgb(145, 142, 142);
+  font-size: 20px;
+}
+.f1{
+  font-size: 20px;
+}
+.gc{
+  margin-top:40px;
+}
+.s1{
+  padding-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+.gth{
+  text-decoration: none;
+}
+@media only screen and (max-width:455px){
+  body{
+    background-color:whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    .grocery{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-left: 60px;
+    }
+    
+    .dd1{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    color: black;
+    background-color: rgb(240, 240, 251);
+    margin-right: 30px;
+    }
+    .m1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .login{
+    color:blue;
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+    width: 80px;
+    text-decoration: none;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .bcseller{
+        color: white;
+        font-size: 15px;
+        font-weight:bolder;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .icon
+    {
+    text-align: center;
+    margin-right: 10px ;
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgb(118, 19, 240);
+    }
+    .home{
+    text-decoration:none;
+    color: white;
+    font-size: 15px;
+    }
+    
+    
+    .d1 {
+    background-color:blue;
+    width: 1170px;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position:sticky;
+    top:0px;
+    }
+    .span{
+    font-size: 10px;
+    margin-left: 5px;
+    }
+    
+    .i1 {
+    font-size: 15px;
+    border: 0.5px;
+    width: 300px;
+    height: 20px;
+    background-color: rgb(240, 240, 251);
+    /* padding: 5px; */
+    margin-left:2px;
+    
+    } 
+    .a1 {
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    }
+    .ch{
+    color:white;
+    text-decoration: none;
+    } 
+    .img1{
+        width: 1160px;
+       margin: 5PX;
+    
+   
+    }
+    .t11{
+        display: flex;
+        justify-content: space-evenly;
+      width: 1160px;
+      margin: 5px;
+   
+    }
+    
+
+.divall
+{
+    width: 1160px;
+    margin: 5px;
+    height:570px;
+    background-color: white;
+
+}
+
+.hero{
+    margin-left: 50px;
+    margin-top: 15px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr{
+    opacity: 0.2;
+}
+.ad2{
+ display: flex;
+ justify-content:space-evenly;
+}
+.ad3{
+    width:220px;
+    text-align: center;
+}
+.ad311{
+margin-top: 5px;
+font-weight:600;
+font-size: 13px;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.ad312{
+    margin-top: 7px;
+    opacity: 0.6;
+    color: green;
+    font-size: 13px;
+}
+.ad313{
+    margin-top: 7px;
+    opacity: 0.4;  
+    font-size: 13px; 
+
+}
+
+.imgset{
+     margin-top: 10px;
+}
+.imgset2{
+   
+     margin-top: 45px;
+}
+.box2{
+    margin-top: 20px;
+}
+.footer{
+    width: 1165px;
+  margin-top: 30px;
+  background-color: black;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.w1{
+  color: rgb(145, 142, 142);
+  font-size: 20px;
+}
+.f1{
+  font-size: 20px;
+}
+.gc{
+  margin-top:40px;
+}
+.s1{
+  padding-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+.gth{
+  text-decoration: none;
+}
+
+
+}
+
