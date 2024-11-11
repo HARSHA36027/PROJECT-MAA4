@@ -158,7 +158,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
       text-decoration: none;
     }
     
-    @media only screen and (max-width:1155px){
+    @media only screen and (max-width:1200px){
         body{
             background-color:whitesmoke;
             margin: 0px;
