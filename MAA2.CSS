@@ -1,0 +1,728 @@
+body{
+    background-color:whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    .grocery{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-left: 60px;
+    }
+    
+    .dd1{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    color: black;
+    background-color: rgb(224, 224, 250);
+    margin-right: 30px;
+    }
+    .m1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .login{
+    color:blue;
+    text-align: center;
+    /* border: 1px solid white; */
+    background-color:whitesmoke;
+    width: 80px;
+    text-decoration: none;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .bcseller{
+        color:black;
+        font-size: 15px;
+        font-weight:bolder;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .icon
+    {
+    text-align: center;
+    margin-right: 10px ;
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgb(118, 19, 240);
+    }
+    .home{
+    text-decoration:none;
+    color: black;
+    font-size: 15px;
+    }
+    
+    
+    .d1 {
+    background-color:white;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position:sticky;
+    top:0px;
+    }
+    .span{
+    font-size: 10px;
+    margin-left: 5px;
+    }
+    
+    .i1 {
+    font-size: 15px;
+    border: 0.5px;
+    width: 300px;
+    height: 20px;
+    border-radius: 5PX;
+    background-color: rgb(224, 224, 250);
+    padding: 5px;
+    margin-left:2px;
+    
+    } 
+    .a1 {
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    }
+    .ch{
+    color:black;
+    text-decoration: none;
+  }
+ 
+  
+   .dis{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+  
+  } 
+  .ich{
+    width: 50px;
+    height: 25px;
+    border: 1px solid blue;
+    
+    
+  } 
+  .d2 {
+    margin: 10px;
+    background-color: white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .p1{
+     text-decoration: none;
+     color:black;
+  
+  }
+  .d3 {
+    margin: 10px;
+  
+    background-size: 100% 100%;
+    height: 250px;
+    animation: jaianimate 15s linear infinite;
+  }
+  @keyframes jaianimate {
+    0% {
+      background-image: url("a1.webp");
+    }
+    25% {
+      background-image: url("a2.webp");
+    }
+    50% {
+      background-image: url("a3.webp");
+    }
+    75% {
+      background-image: url("a4.webp");
+    }
+    100% {
+      background-image: url("a5.webp");
+    }
+  }
+  .edge{
+    font-size: 15px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .mo49{
+    opacity: 0.7;
+    margin-left: 3px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  .price1{
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+  }
+  .rupeicon1{
+    font-size:13px;
+  }
+  .mo50{
+    margin-left:1px;
+  }
+  .price2{
+    color: silver;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: line-through;
+  }
+  .rupeicon2{
+    font-size:13px;
+    color: silver;
+  }
+  .off{
+    color: green;
+    font-size: 15px;
+  }
+  .iphone{
+    margin: 10px;
+  background-color: white;
+    height:370px;
+  }
+  .iphone1{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;  
+    /* padding-left: 50px; */
+    margin-right: 800PX;
+    font-size: 20px;
+    font-weight:400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .iphone2{
+    display:flex;
+    justify-content:center;
+  }
+  .iphone21{
+    margin-top: 30px;
+    margin-left: 33PX;
+    width:200px;
+    text-align: center;
+  }
+  .iphone22{
+    margin-top: 30px;
+    width:200px;
+    text-align: center;
+  }
+  
+  .iphone21:hover{
+    border-radius: 5px;
+    border: 1px solid rgb(93, 91, 91);
+    margin-top: 30px;
+    width:210px;
+    padding: 10px;
+    text-align: center;
+  }
+  .iphone22:hover{
+    border-radius: 5px;
+    border: 1px solid rgb(93, 91, 91);
+    margin-top: 30px;
+    width:210px;
+    padding: 10px;
+    text-align: center;
+  }
+  .icon4{
+    padding-left:  5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    background-color: green;
+    color: white;
+  }
+  .iphone2121{
+    margin-top:6px;
+  }
+  .iphone2122{
+    margin-top: 6px;
+  }
+  .iphone2123{
+    margin-top: 6px;
+  }
+  .p13{
+    text-align: center;
+  }
+  .p7{
+    /* padding-left: 30px; */
+    display: flex;
+    justify-content: center;
+    margin-right: 700px;
+    padding-top: 20px;
+
+  }
+  .d6 {
+    margin: 10px;
+    background-color: white;
+    height: 280px;
+    border-radius: 10px;
+  }
+  .d61{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+  }
+  .p16 {
+    margin-left: 45px;
+  }
+  .d7 {
+    margin: 10px;
+    height: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .p22 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    width: 277.5px;
+    
+  }
+
+  .p24 {
+    text-align: center;
+    
+  }
+  .p25 {
+    border: 1px solid white;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .d8{
+    margin: 10px 20px 20px 20px;
+    display: flex;
+    justify-content:center;
+  }
+  .p28{
+    margin: 10px;
+     border: 1px solid rgb(243, 232, 232); 
+     width: 300px;
+     padding: 20px;
+     border-radius: 10px;
+  }
+  
+  .p30{
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  
+  .p31{
+   
+    background-color: white;
+    width: 450px;
+    height: 660px;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  .p32{
+    color:green;
+    text-align: center;
+    font-size: 20px;
+  }
+  .p34{
+    margin-left: 10px;
+      width: 680px;
+      height: 660px;
+    }
+  .Login{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: black;
+  font-weight: 400;
+  }
+ 
+  .footer{
+    margin-top: 20px;
+    background-color: black;
+    height: 300px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  .w1{
+    color: rgb(145, 142, 142);
+    font-size: 20px;
+  }
+  .f1{
+    font-size: 20px;
+  }
+  .gc{
+    margin-top:40px;
+  }
+  .s1{
+    padding-left: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .gth{
+    text-decoration: none;
+  }
+  @media only screen and (max-width:1155px){
+    body{
+        background-color:whitesmoke;
+        margin: 0px;
+        padding: 0px;
+        
+        }
+        .grocery{
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin-left: 60px;
+        }
+        
+        .dd1{
+        display: flex;
+        align-items: center;
+        height: 30px;
+        color: black;
+        background-color: rgb(224, 224, 250);
+        margin-right: 30px;
+        }
+        .m1{
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        margin-right: 20px;
+        font-style: oblique;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .login{
+        color:blue;
+        text-align: center;
+        /* border: 1px solid white; */
+        background-color:whitesmoke;
+        width: 80px;
+        text-decoration: none;
+        
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .bcseller{
+            color:black;
+            font-size: 15px;
+            font-weight:bolder;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        
+        .icon
+        {
+        text-align: center;
+        margin-right: 10px ;
+        margin-left: 10px;
+        font-size: 15px;
+        color: rgb(118, 19, 240);
+        }
+        .home{
+        text-decoration:none;
+        color: black;
+        font-size: 15px;
+        }
+        
+        
+        .d1 {
+        background-color:white;
+        width: 1170px;
+        height: 60px;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        position:sticky;
+        top:0px;
+        }
+        .span{
+        font-size: 10px;
+        margin-left: 5px;
+        }
+        
+        .i1 {
+        font-size: 15px;
+        border: 0.5px;
+        width: 300px;
+        height: 20px;
+        border-radius: 5PX;
+        background-color: rgb(224, 224, 250);
+        padding: 5px;
+        margin-left:2px;
+        
+        } 
+        .a1 {
+        color:black;
+        text-decoration: none;
+        font-size: 20px;
+        }
+        .ch{
+        color:black;
+        text-decoration: none;
+      }
+     
+      
+       .dis{
+        
+        width: 100px;
+        height: 50px;
+        border: 1px solid black;
+      
+      } 
+      .ich{
+        width: 50px;
+        height: 25px;
+        border: 1px solid blue;
+        
+        
+      } 
+      .d2 {
+        margin: 10px;
+        width: 1150px;
+        background-color: white;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+      .p1{
+         text-decoration: none;
+         color:black;
+      
+      }
+      .d3 {
+        margin: 10px;
+        width: 1150px;
+      
+        background-size: 100% 100%;
+        height: 250px;
+        animation: jaianimate 15s linear infinite;
+      }
+      @keyframes jaianimate {
+        0% {
+          background-image: url("a1.webp");
+        }
+        25% {
+          background-image: url("a2.webp");
+        }
+        50% {
+          background-image: url("a3.webp");
+        }
+        75% {
+          background-image: url("a4.webp");
+        }
+        100% {
+          background-image: url("a5.webp");
+        }
+      }
+      .edge{
+        font-size: 15px;
+      font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+      .mo49{
+        opacity: 0.7;
+        margin-left: 3px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+      
+      .price1{
+        font-size: 17px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      
+      }
+      .rupeicon1{
+        font-size:13px;
+      }
+      .mo50{
+        margin-left:1px;
+      }
+      .price2{
+        color: silver;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-decoration: line-through;
+      }
+      .rupeicon2{
+        font-size:13px;
+        color: silver;
+      }
+      .off{
+        color: green;
+        font-size: 15px;
+      }
+      .iphone{
+        /* margin-top: 20px; */
+        margin: 10px;
+      background-color: white;
+      width: 1150px;
+        height:370px;
+      }
+      .iphone1{
+        padding-top: 30px;  
+        padding-left: 50px;
+        font-size: 20px;
+        font-weight:400px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      .iphone2{
+        display:flex;
+        justify-content: space-evenly;
+      }
+      .iphone21{
+        margin-top: 30px;
+        width:200px;
+        text-align: center;
+      }
+      .iphone21:hover{
+        border-radius: 5px;
+        border: 1px solid rgb(93, 91, 91);
+        margin-top: 30px;
+        width:220px;
+        padding: 10px;
+        text-align: center;
+        /* height: 270px; */
+      }
+      .icon4{
+        padding-left:  5px;
+        padding-right: 5px;
+        border-radius: 3px;
+        background-color: green;
+        color: white;
+      }
+      .iphone2121{
+        margin-top:6px;
+      }
+      .iphone2122{
+        margin-top: 6px;
+      }
+      .iphone2123{
+        margin-top: 6px;
+      }
+      .p13{
+        text-align: center;
+      }
+      .p7{
+        padding-left: 30px;
+        padding-top: 20px;
+    
+      }
+      .d6 {
+        margin: 10px;
+        background-color: white;
+        height: 280px;
+        width: 1150px;
+        border-radius: 10px;
+      }
+      
+      .p16 {
+        display: inline-block;
+        margin-left: 30px;
+      }
+      .d7 {
+        margin: 10px;
+        height: 490px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 1150px;
+        
+      }
+      .p22 {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 277.5px;
+        
+      }
+    
+      .p24 {
+        text-align: center;
+      }
+      .p25 {
+        border: 1px solid white;
+        background-color: white;
+        margin: 5px;
+        border-radius: 10px;
+      }
+      .d8{
+        margin: 10px 20px 20px 20px;
+        display: flex;
+        justify-content:space-around;
+      width: 1150px;  
+      }
+      .p28{
+        margin: 10px;
+         border: 1px solid rgb(243, 232, 232); 
+         width: 300px;
+         padding: 20px;
+         border-radius: 10px;
+      }
+      
+      .p30{
+        display: flex;
+        justify-content: space-evenly;
+        
+      }
+      
+      .p31{
+        flex-direction: column;
+        justify-content: space-around;
+        background-color: white;
+        width: 450px;
+        height: 710px;
+        border-radius: 10px;
+      }
+      .p32{
+        color:green;
+        text-align: center;
+        font-size: 20px;
+      }
+      .p34{
+          width: 680px;
+          height: 710px;
+        }
+      .Login{
+        text-decoration: none;
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      color: black;
+      font-weight: 400;
+      }
+     
+      .footer{
+        margin-top: 20px;
+        background-color: black;
+        width: 1170px;
+        height: 300px;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+      }
+      .w1{
+        color: rgb(145, 142, 142);
+        font-size: 20px;
+      }
+      .f1{
+        font-size: 20px;
+      }
+      .gc{
+        margin-top:40px;
+      }
+      .s1{
+        padding-left: 10px;
+        font-size: 20px;
+        text-decoration: none;
+        color: white;
+      }
+      .gth{
+        text-decoration: none;
+      }
+      
+      
+      
+  }
+  
+  
+  
