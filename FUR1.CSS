@@ -187,7 +187,7 @@ body{
       text-decoration: none;
     }
     
-    @media only screen and (max-width:1155px){
+    @media only screen and (max-width:1200px){
         body{
             background-color:whitesmoke;
             margin: 0px;
@@ -286,7 +286,7 @@ body{
             
             .sale{
                 /* width: 1140px; */
-                margin-left: 50px;
+                margin-left: 60px;
                 margin-top: 15px;
                 font-weight: bolder;
                 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -295,7 +295,7 @@ body{
             {
                 width: 1160px;
                 margin: 5px;
-                height: 1020px;
+                height: 1040px;
                 background-color: white;
         
             }
