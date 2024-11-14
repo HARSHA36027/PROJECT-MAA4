@@ -671,7 +671,7 @@ body{
         justify-content: space-around;
         background-color: white;
         width: 450px;
-        height: 710px;
+        height: 680px;
         border-radius: 10px;
       }
       .p32{
@@ -681,7 +681,7 @@ body{
       }
       .p34{
           width: 710px;
-          height: 710px;
+          height: 680px;
         }
       .Login{
         text-decoration: none;
